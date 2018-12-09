@@ -1,4 +1,4 @@
-# Tableau Assignment - Citi Bike Analytics
+# Tableau Project - Citi Bike Analytics
 
 ## Background
 
